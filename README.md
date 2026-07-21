@@ -2,4 +2,4 @@
 
 ## Project link
 
-[Click here](https://yuvraj-sharma-404.github.io/SNAKE-GAME/)
+[Click here](https://yuvraj-sharma-404.github.io/Todo/)
