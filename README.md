@@ -1,4 +1,4 @@
-# SNAKE-GAME
+# Todo
 
 ## Project link
 
